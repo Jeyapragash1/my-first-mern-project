@@ -1,0 +1,27 @@
+{
+  "name": "my-first-mern-project",
+  "version": "1.0.0",
+  "description": "**hi iam jeyapragash**",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeyapragash1/my-first-mern-project.git"
+  },
+  "author": "jeyapragash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeyapragash1/my-first-mern-project/issues"
+  },
+  "homepage": "https://github.com/Jeyapragash1/my-first-mern-project#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2",
+    "nodemon": "^3.1.7"
+  },
+  "keywords": []
+}
